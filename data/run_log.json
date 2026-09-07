@@ -1,37 +1,5 @@
 [
   {
-    "timestamp": "2026-08-16T02:35:23.295610+00:00",
-    "duration_sec": 62.8,
-    "companies": 36,
-    "skipped_cadence": 0,
-    "first_run": false,
-    "kept_new": 15,
-    "priority_new": 0,
-    "filtered_noise": 76,
-    "sources": {
-      "sec_ticker_map": {
-        "ok": 1,
-        "error": 0,
-        "raw": 10387
-      },
-      "sec": {
-        "ok": 23,
-        "error": 0,
-        "raw": 690
-      },
-      "rss": {
-        "ok": 11,
-        "error": 0,
-        "raw": 249
-      },
-      "web": {
-        "ok": 14,
-        "error": 0,
-        "raw": 237
-      }
-    }
-  },
-  {
     "timestamp": "2026-08-17T02:34:11.879129+00:00",
     "duration_sec": 13.3,
     "companies": 5,
@@ -955,6 +923,38 @@
       "web": {
         "ok": 7,
         "error": 2,
+        "raw": 220
+      }
+    }
+  },
+  {
+    "timestamp": "2026-09-07T06:05:45.452365+00:00",
+    "duration_sec": 37.8,
+    "companies": 10,
+    "skipped_cadence": 0,
+    "first_run": false,
+    "kept_new": 0,
+    "priority_new": 0,
+    "filtered_noise": 0,
+    "sources": {
+      "sec_ticker_map": {
+        "ok": 1,
+        "error": 0,
+        "raw": 10415
+      },
+      "sec": {
+        "ok": 5,
+        "error": 0,
+        "raw": 83
+      },
+      "rss": {
+        "ok": 0,
+        "error": 1,
+        "raw": 0
+      },
+      "web": {
+        "ok": 6,
+        "error": 3,
         "raw": 220
       }
     }
