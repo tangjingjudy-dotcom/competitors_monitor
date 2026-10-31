@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "company": "Gilead (含Arcellx/Kite)",
+    "category": "竞品",
+    "source": "sec",
+    "title": "10-Q 申报：FORM 10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/882095/000088209526000039/gild-20260930.htm",
+    "date": "2026-10-30",
+    "detail": "表单 10-Q",
+    "tier": "priority",
+    "uid": "sec-0000882095-26-000039",
+    "first_seen": "2026-10-31T06:58:48.364373+00:00"
+  }
+]
