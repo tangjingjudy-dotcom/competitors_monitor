@@ -1,41 +1,5 @@
 [
   {
-    "company": "Lyell Immunopharma",
-    "category": "监控主体",
-    "source": "sec",
-    "title": "10-Q 申报：10-Q",
-    "url": "https://www.sec.gov/Archives/edgar/data/1806952/000162828026070171/lyel-20260930.htm",
-    "date": "2026-11-04",
-    "detail": "表单 10-Q",
-    "tier": "priority",
-    "uid": "sec-0001628280-26-070171",
-    "first_seen": "2026-11-05T07:54:23.439561+00:00"
-  },
-  {
-    "company": "Miltenyi Biomedicine (zamto-cel)",
-    "category": "竞品",
-    "source": "web",
-    "title": "Zamto-cel significantly improved event-free survival versus chemoimmunotherapy in transplant-ineligible large B-cell lymphomaOctober 2026",
-    "url": "https://www.miltenyibiomedicine.com/news-events/press-releases/Zamto-cel-significantly-improved-event-free-survival-versus-chemoimmunotherapy-in-transplant-ineligible-large-B-cell-lymphoma",
-    "date": "",
-    "detail": "来源页: https://www.miltenyibiomedicine.com/news-events/press-releases/",
-    "tier": "priority",
-    "uid": "e022056a57d8a3ea",
-    "first_seen": "2026-11-05T07:54:23.439561+00:00"
-  },
-  {
-    "company": "CARsgen (科济药业)",
-    "category": "竞品",
-    "source": "web",
-    "title": "05 Nov 2026 Abstracts of CARsgen's CT1190B and CT071 Published at ASH 2026 Annual Meeting Nov 05, 2026",
-    "url": "https://www.carsgen.com/en/news/20261105/",
-    "date": "",
-    "detail": "来源页: https://www.carsgen.com/en/news/",
-    "tier": "priority",
-    "uid": "85d61489278d4893",
-    "first_seen": "2026-11-05T07:54:23.439561+00:00"
-  },
-  {
     "company": "Immunome",
     "category": "竞品",
     "source": "sec",
@@ -46,5 +10,17 @@
     "tier": "priority",
     "uid": "sec-0001193125-26-453597",
     "first_seen": "2026-11-10T08:23:38.022209+00:00"
+  },
+  {
+    "company": "Parabilis Medicines",
+    "category": "监控主体",
+    "source": "sec",
+    "title": "10-Q 申报：10-Q",
+    "url": "https://www.sec.gov/Archives/edgar/data/1657677/000119312526458388/ck0001657677-20260930.htm",
+    "date": "2026-11-12",
+    "detail": "表单 10-Q",
+    "tier": "priority",
+    "uid": "sec-0001193125-26-458388",
+    "first_seen": "2026-11-13T07:54:43.976743+00:00"
   }
 ]
